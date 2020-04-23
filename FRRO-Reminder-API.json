@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "frro-reminder",
+  "private_key_id": "2e6ed7553a99941b6f57134b038447e3eba55791",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDqFW8fXWwTTi7b\naZP3NLWb528+fxNB4TQO89V4M9mNCgjTavNkiTiUN9ERmoWrUJu3KiouVYZTpfCi\nSYltPTy0pmP+pn9PclxvmW437KngQt1QZebrrF5XWPvyK7l7ebXx0VCAlf6cuDbt\nNU3GQX/0en+R6g+evPLRWbzyxOtrX6D3S3Fc50Kdr1YWa35LM/f3ERBvBIegfh7O\nBxU1HTODGIgpsWhZs3bw+6Rg2P8h6BHMvEMqWVSFjLVvJY0z9eCfBaDjJ14/WRDy\nMM58X6ZMbxQc736uIF2eKFCS/6ce5T6UJJBNwIGr+FjVb1pAV1lwVRMLuJsae3/a\n0PAazOJDAgMBAAECggEADmWyF3pDVEP57XnRZXd4TLX6fsa0aa1kanUEe1JTvkZ7\nONGlAFkmQeDVpYuyTqafD9rH4bYAlIgqGY6EpX404SGIw0KnUDzG7arrVK+O2oxn\nmJ3Oivk84N9yuOLdPiMZazLwt2/s9eOopoShm3Yvh1sPb0CM+bpCWa5MyPEOpQ8M\nW/myGOWChQJP3ybtxqh8dHmpY8gzXMijxeUweylq1LmmJSx+J/kyDhVMZegsfUSy\nRfce9KQYAA8FP61TTFkZAY1hai8g+PPaLTgNIe7EHTs3E/NhopV9kxEVbcSdoTMQ\nNn29vhRqb5cYOQki2rpJ5ozGTSQMJuyE9HF5ZkpNmQKBgQD923B464gt1aKa7ayQ\nduBNfydcnJSOm8RoFpd8HhCqtzszrFxILSzt2qXQopSX7Q5qeV/puai1WIfEx3AZ\nENSSXUmmcKtHhVsy4MdXxG5gxMZD6dd30EEEylkpsGd8XMfqdS16DDwZllXMcKFk\n+Tcnzvdt1CykH4Woe7+EKzvIaQKBgQDsD0QmVXkSpxPMhV4G+VjrY50o5YGGMUyO\njfdLwR19+t0S2ipaA05b1DWDF9ViBf/c8y5PMBNURtssShmsuX9n2kBQoymnIi5c\nLI8M2P7ZagV/ahNHfaK0o3/cAVHuVEg8R6g5UIGXB2gcCRgErVue8+A7d4WdxWj+\nUPO62hZfywKBgAGGsjRn5hewcxvPVfxAWrTckNYDsvjwgsvFZv++BoegNmDnJl7g\ntqZvbBPHBnGrYSzOsf7ruNHuSFKsiEX+TejbWrf/cWgqqxOxOkGS0r8OL8r0uvDj\ndaCbvtF7WAPtYt5L+gwDytC0kKt7+dxriyNYITCt197cuab7p3kZ8XARAoGAR/WX\nZsAjekYoSO5W7XVRX+Ar5m2gAFJC7inkutkRrnessLSEuI/NcTzNWzsGtyzxBF+1\nPDqBie1XnrawAPFDH1tuw6YZanOHAl4q9VWoyooBRwgE/IQV907oCR715NsYche9\n9krOVkXRvMog4jwec+QP9NDIkIG/MddnlQwqSeUCgYBq34kBqtmKSfLEDx0WYINy\nfhQnZl8F7IFXCFjAXu26KzOrVe7uocUBq5275ojD1+MQkC9FdMuRIcPcHl1VxyZQ\n9/uukqZDzSUklHkZ6pwQNEzHnRZ+HgY6QPpKEBOfeZiPHaeXwoBcgiXE9mvraOgc\ncQaUgIicOasW2mpr5vS/0A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "frro-pu@frro-reminder.iam.gserviceaccount.com",
+  "client_id": "112507393993105080075",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/frro-pu%40frro-reminder.iam.gserviceaccount.com"
+}

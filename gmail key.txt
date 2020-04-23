@@ -1,0 +1,25 @@
+
+Client id
+860929562320-nr6buav9jetlrapsl23t5olb9400a9ph.apps.googleusercontent.com
+
+Client secret
+2itp0D6GE3rcwYx9T80vzqcd
+
+
+
+
+--> scheduling every one day 
+
+--> check if database is updated 
+ 
+--> fetch the database from excel file 
+
+--> take the frro student date from the database
+
+--> start the scheduling for 1,2,3,8,9,10 day f0r the all the students
+
+--> make the scheduling for same students on 11th month
+
+
+
+
